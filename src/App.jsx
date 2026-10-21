@@ -27,7 +27,7 @@ const siteProps = {
   name: "Yuxi Chen",
   title: "Data Analyst & Engineer",
   email: "rayerr.c@gmail.com",
-  gitHub: "https://github.com/Yuxi-Cn"
+  gitHub: "Yuxi-Cn"
 };
 
 const primaryColor = "#4E567E";
